@@ -1,0 +1,4 @@
+;A function is called that is not recognised
+;It should parse correctly then return a runtime error when executed
+
+doThis()

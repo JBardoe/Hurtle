@@ -1,0 +1,29 @@
+;Functions declared with function keyword followed by name and contained in [] 
+
+function square [
+    repeat 4 [
+        forward 100
+        right 90
+    ]
+]
+home
+colour 1 0 0
+square()
+penup 
+right 90
+forward 200
+pendown
+colour 0 1 0
+square()
+penup
+right 90
+forward 200
+pendown
+colour 0 0 1
+square()
+penup
+right 90
+forward 200
+pendown 
+colour 0.75 0.1 0.2
+square()
