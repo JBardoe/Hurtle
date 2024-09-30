@@ -1,8 +1,8 @@
 # Hurtle
 
-This is a Haskell parser for a version of the Turtle programming language.
-The program can be used to either parse and execute turtle programs or the user can use the 
-interactive mode to control the turtle directly with the keyboard.
+This is a Haskell parser for a version of the Logo programming language.
+The program can be used to either parse and execute Logo programs or the user can use the 
+interactive mode to control the pen directly with the keyboard.
 
 Some correct and incorrect examples of programs can be found in the examples folder.
 
@@ -38,7 +38,7 @@ Closing square brackets should be written on their own line.
 
 ## Interactive
 
-The turtle can also choose the control the turtle directly. This opens a window and allows the use
+The user can also choose the control the pen directly. This opens a window and allows the use
 of keyboard controls.
 
 Controls include:
